@@ -639,7 +639,7 @@ $$
 
 which matches our first calculation.
 Importantly, the $$B_{\boldsymbol{g},\boldsymbol{\gamma}}$$ terms match the entries of $$B$$ from Example 3
-(row 2 columns 1 and 2) illustrating how this producedure obtains the matrix factorisation $$A = BC$$.
+(row 2 columns 1 and 2) illustrating how this procedure obtains the matrix factorisation $$A = BC$$.
 " %}
 
 We can now obtain an explicit matrix $$C$$.
