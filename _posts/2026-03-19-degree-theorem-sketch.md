@@ -430,7 +430,7 @@ so there is a `gap' of $$\nu - 1 - s$$ that we need to bridge.
 We can resolve this by treating the $$\boldsymbol{r}$$ as fixed,
 and considering all possible $$\boldsymbol{\ell}$$ additional players we could choose 
 that complete the choice to obtain a valid $$\boldsymbol{\gamma}$$.
-Using the generalisation of Vandermonde's identity allows us distribute the 
+Using the generalisation of Vandermonde's identity allows us to distribute the 
 remaining $$\nu - 1 - s$$ choices across the $$m$$ components of the remaining $$\boldsymbol{g} - \boldsymbol{r}$$
 (see Example 4 for a concrete illustration).
 
