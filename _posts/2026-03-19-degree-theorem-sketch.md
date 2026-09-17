@@ -215,7 +215,7 @@ $$
 " %}
 
 We now consider the situation where,
-instead of the focal playing all $$n-1$$ nonfocals individuals in a single $$n$$-player encounter,
+instead of the focal playing all $$n-1$$ nonfocal individuals in a single $$n$$-player encounter,
 the focal plays a $$\nu$$-player game with every $$\nu-1$$ subset of nonfocals
 in $$\binom{n-1}{\nu-1}$$ in separate encounters.
 
