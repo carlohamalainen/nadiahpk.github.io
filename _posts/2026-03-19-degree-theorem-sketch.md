@@ -10,7 +10,7 @@ categories:
   - cooperation
 ---
 
-In a [a recent paper](https://nadiah.org/wp-content/uploads/2025/03/Kristensen25-Many_strategy_group_games_with_relatives_and_coordinated_cooperation.pdf)
+In [a recent paper](https://nadiah.org/wp-content/uploads/2025/03/Kristensen25-Many_strategy_group_games_with_relatives_and_coordinated_cooperation.pdf)
 (Kristensen, Chisholm, & Ohtsuki 2025),
 we developed the mathematical tools needed to describe the evolution of discrete strategies 
 in a many-player game with a nonlinear benefits function and relatedness between the players.
