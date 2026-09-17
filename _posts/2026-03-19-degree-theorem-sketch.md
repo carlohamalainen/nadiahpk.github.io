@@ -672,7 +672,7 @@ We can tidy the expression for $$C_{\gamma, k}$$ using the following:
 - Recall $$r_m \equiv 0$$, 
   so $$\binom{\gamma_m}{r_m} = \binom{\gamma_m}{0} = 1$$,
   and the $$\prod_{j=1}^m \binom{\gamma_j}{r_j}$$ term can be truncated and
-  brought into Stirling product.
+  brought into the Stirling product.
 - By defining $$h_j \equiv \text{min}(k_j, \gamma_j)$$
   and $$\boldsymbol{h} = (h_1, \ldots, h_{m-1})$$,
       the two conditions $$\boldsymbol{r} \leq \boldsymbol{k}$$ 
