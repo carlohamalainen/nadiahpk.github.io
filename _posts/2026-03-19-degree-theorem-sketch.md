@@ -155,7 +155,7 @@ $$
     = \underbrace{c_{(2, 0)}}_{3} g_{1}^2 
      + \underbrace{c_{(1, 1)}}_{4} g_{1} g_{2} 
      + \underbrace{c_{(1, 0)}}_{-3} g_{1} 
-     + \underbrace{c_{(0, 2)}}_{5} g_{2}^2,
+     + \underbrace{c_{(0, 2)}}_{5} g_{2}^2
      + \underbrace{c_{(0, 1)}}_{3} g_{2} 
      + \underbrace{c_{(0, 0)}}_{9} \\
 $$
