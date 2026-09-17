@@ -670,7 +670,7 @@ which is a matrix product.
 
 We can tidy the expression for $$C_{\gamma, k}$$ using the following:
 - Recall $$r_m \equiv 0$$, 
-  so $$\binom{\gamma_m}{r_m} \binom{\gamma_m}{0} = 1$$,
+  so $$\binom{\gamma_m}{r_m} = \binom{\gamma_m}{0} = 1$$,
   and the $$\prod_{j=1}^m \binom{\gamma_j}{r_j}$$ term can be truncated and
   brought into Stirling product.
 - By defining $$h_j \equiv \text{min}(k_j, \gamma_j)$$
@@ -747,7 +747,7 @@ in reverse lexicographical order.
 So the rows of $$C$$ from top to bottom are $$\boldsymbol{\gamma}$$ equals:
 
 $$
-      (2,0,0), (1,1,0), (1,0,0), (0,2,0), (0,1,1), (1,0,2)
+      (2,0,0), (1,1,0), (1,0,1), (0,2,0), (0,1,1), (0,0,2)
 $$
 
 And the columns of $$C$$ from left to right are $$\boldsymbol{k}$$ equals
