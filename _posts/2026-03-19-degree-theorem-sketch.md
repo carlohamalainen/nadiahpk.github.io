@@ -370,7 +370,7 @@ for all focal strategies $$x$$ and nonfocal compositions $$\boldsymbol{g}$$.
 We wish to show that,
 if $$\boldsymbol{\pi}_n = A \boldsymbol{c}$$,
 then $$\boldsymbol{\pi}_n = B \boldsymbol{\pi}_{\nu}$$ has a solution.
-This is also columnspace containment problem:
+This is also a columnspace containment problem:
 we wish to show that
 $$\boldsymbol{\pi}_n \in \text{col}(A) \implies \boldsymbol{\pi}_n \in \text{col}(B)$$,
 or $$\text{col}(A) \subseteq \text{col}(B)$$.
@@ -386,7 +386,7 @@ $$
 
 We wish to relate columns of $$A$$ with elements of the form $$\prod g_j^{k_j}$$ 
 to columns of $$B$$ with elements of the form $$\prod \binom{g_j}{\gamma_j}$$.
-The monomials in $$A$$ can be expressed a sum of falling factorials
+The monomials in $$A$$ can be expressed as a sum of falling factorials
 
 $$
   g_j^{k_j} = \sum_{r=0}^{k_j} S(k_j, r)\, r!\, \binom{g_j}{r}
